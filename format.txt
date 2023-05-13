@@ -1,0 +1,1 @@
++des{Which is your favourite fruit?} opt1{Mango} role1{Mango_Lover} react1{:mango: } opt2{Apple} role2{Apple_Lover} react2{:apple:} opt3{Banana} role3{Banana_Lover} react3{:banana:} opt4{Cherry} role4{Cheery_Lover} react4{:cherries: }
